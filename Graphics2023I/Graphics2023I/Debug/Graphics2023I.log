@@ -1,0 +1,26 @@
+﻿  CCanvas.cpp
+C:\Users\betou\Escritorio\Cuahutemoc\Programacion\CodigosvIsual\Graphics2023I\Graphics2023I\CCanvas.cpp(386,11): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\betou\Escritorio\Cuahutemoc\Programacion\CodigosvIsual\Graphics2023I\Graphics2023I\CCanvas.cpp(390,15): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\betou\Escritorio\Cuahutemoc\Programacion\CodigosvIsual\Graphics2023I\Graphics2023I\CCanvas.cpp(393,11): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\betou\Escritorio\Cuahutemoc\Programacion\CodigosvIsual\Graphics2023I\Graphics2023I\CCanvas.cpp(397,15): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\betou\Escritorio\Cuahutemoc\Programacion\CodigosvIsual\Graphics2023I\Graphics2023I\CCanvas.cpp(650,77): warning C4244: 'argumento': conversión de 'const float' a 'int'; posible pérdida de datos
+C:\Users\betou\Escritorio\Cuahutemoc\Programacion\CodigosvIsual\Graphics2023I\Graphics2023I\CCanvas.cpp(650,60): warning C4244: 'argumento': conversión de 'const float' a 'int'; posible pérdida de datos
+C:\Users\betou\Escritorio\Cuahutemoc\Programacion\CodigosvIsual\Graphics2023I\Graphics2023I\CCanvas.cpp(650,43): warning C4244: 'argumento': conversión de 'const float' a 'int'; posible pérdida de datos
+C:\Users\betou\Escritorio\Cuahutemoc\Programacion\CodigosvIsual\Graphics2023I\Graphics2023I\CCanvas.cpp(650,26): warning C4244: 'argumento': conversión de 'const float' a 'int'; posible pérdida de datos
+C:\Users\betou\Escritorio\Cuahutemoc\Programacion\CodigosvIsual\Graphics2023I\Graphics2023I\CCanvas.cpp(651,77): warning C4244: 'argumento': conversión de 'const float' a 'int'; posible pérdida de datos
+C:\Users\betou\Escritorio\Cuahutemoc\Programacion\CodigosvIsual\Graphics2023I\Graphics2023I\CCanvas.cpp(651,60): warning C4244: 'argumento': conversión de 'const float' a 'int'; posible pérdida de datos
+C:\Users\betou\Escritorio\Cuahutemoc\Programacion\CodigosvIsual\Graphics2023I\Graphics2023I\CCanvas.cpp(651,43): warning C4244: 'argumento': conversión de 'const float' a 'int'; posible pérdida de datos
+C:\Users\betou\Escritorio\Cuahutemoc\Programacion\CodigosvIsual\Graphics2023I\Graphics2023I\CCanvas.cpp(651,26): warning C4244: 'argumento': conversión de 'const float' a 'int'; posible pérdida de datos
+C:\Users\betou\Escritorio\Cuahutemoc\Programacion\CodigosvIsual\Graphics2023I\Graphics2023I\CCanvas.cpp(652,77): warning C4244: 'argumento': conversión de 'const float' a 'int'; posible pérdida de datos
+C:\Users\betou\Escritorio\Cuahutemoc\Programacion\CodigosvIsual\Graphics2023I\Graphics2023I\CCanvas.cpp(652,60): warning C4244: 'argumento': conversión de 'const float' a 'int'; posible pérdida de datos
+C:\Users\betou\Escritorio\Cuahutemoc\Programacion\CodigosvIsual\Graphics2023I\Graphics2023I\CCanvas.cpp(652,43): warning C4244: 'argumento': conversión de 'const float' a 'int'; posible pérdida de datos
+C:\Users\betou\Escritorio\Cuahutemoc\Programacion\CodigosvIsual\Graphics2023I\Graphics2023I\CCanvas.cpp(652,26): warning C4244: 'argumento': conversión de 'const float' a 'int'; posible pérdida de datos
+  CDXManager.cpp
+  Graphics2023I.cpp
+C:\Users\betou\Escritorio\Cuahutemoc\Programacion\CodigosvIsual\Graphics2023I\Graphics2023I\Graphics2023I.cpp(280,32): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\betou\Escritorio\Cuahutemoc\Programacion\CodigosvIsual\Graphics2023I\Graphics2023I\Graphics2023I.cpp(280,80): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\betou\Escritorio\Cuahutemoc\Programacion\CodigosvIsual\Graphics2023I\Graphics2023I\Graphics2023I.cpp(280,74): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\betou\Escritorio\Cuahutemoc\Programacion\CodigosvIsual\Graphics2023I\Graphics2023I\Graphics2023I.cpp(281,35): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+  Generando código...
+C:\Users\betou\Escritorio\Cuahutemoc\Programacion\CodigosvIsual\Graphics2023I\Graphics2023I\CCanvas.cpp(467): warning C4715: 'CCanvas::Address': no todas las rutas de acceso de control devuelven un valor
+  Graphics2023I.vcxproj -> C:\Users\betou\Escritorio\Cuahutemoc\Programacion\CodigosvIsual\Graphics2023I\Debug\Graphics2023I.exe
